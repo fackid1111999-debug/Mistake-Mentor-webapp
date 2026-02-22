@@ -1,0 +1,7 @@
+{
+  "name": "Mistake Mentor",
+  "description": "A safe digital space where you can check your work without feeling judged. We use smart AI to help you find mistakes and understand how to fix them, so you can learn and grow with every click.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
